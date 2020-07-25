@@ -2238,3 +2238,4 @@ void ukuran(int lebar, int tinggi){
 	glMatrixMode(GL_MODELVIEW);
 }
 
+
